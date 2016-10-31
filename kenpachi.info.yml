@@ -1,0 +1,11 @@
+name: Kenpachi
+description: 'The standard install profile.'
+package: Kenpachi
+type: profile
+core: 8.x
+
+dependencies:
+  - toolbar
+
+themes:
+  - bootstrap
