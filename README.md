@@ -1,1 +1,1 @@
-Kenpachi ~ Drupal 8 Installation profile
+izuru ~ Drupal 8 Installation profile
