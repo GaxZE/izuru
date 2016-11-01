@@ -1,6 +1,6 @@
-name: Kenpachi
+name: Izuru
 description: 'The standard install profile.'
-package: Kenpachi
+package: izuru
 type: profile
 core: 8.x
 
