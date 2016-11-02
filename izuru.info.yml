@@ -4,8 +4,78 @@ package: izuru
 type: profile
 core: 8.x
 
+# Make the installer auto-select this installation profile.
+#distribution:
+#  name: izuru
+
 dependencies:
+  - automated_cron
+  - block
+  - block_content
+  - breakpoint
+  - ckeditor
+  - color
+  - comment
+  - config
+  - contextual
+  - contact
+  - dblog
+  - dynamic_page_cache
+  - editor
+  - entity
+  - field_ui
+  - file
+  - filter
+  - help
+  - history
+  - image
+  - menu_ui
+  - menu_link_content
+  - node
+  - options
+  - page_cache
+  - path
+  - quickedit
+  - rdf
+  - search
+  - shortcut
+  - system
+  - taxonomy
   - toolbar
+  - update
+  - user
+  - views
+  - views_ui
+  - datetime
+  - file
+  - image
+  - link
+  - options
+  - text
+  - ctools
+  - ctools_views
+  - devel
+  - eck
+  - eform
+  - field_group
+  - inline_entity_form
+  - layout_plugin
+  - pathauto
+  - redirect
+  - rules
+  - sitemap
+  - scheduler
+  - token
+  - xmlsitemap
+  - dropzonejs
+  - embed
+  - entity_browser
+  - entity_embed
+  - file_browser
+  - entity_browser_entity_form
+  - media_entity
+  - media_entity_image
 
 themes:
   - bootstrap
+  - seven
