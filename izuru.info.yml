@@ -5,22 +5,17 @@ type: profile
 core: 8.x
 
 # Make the installer auto-select this installation profile.
-#distribution:
-#  name: izuru
+distribution:
+  name: izuru
 
 dependencies:
   - automated_cron
   - block
   - block_content
-  - breakpoint
   - ckeditor
   - color
   - comment
-  - config
-  - contextual
-  - contact
   - dblog
-  - dynamic_page_cache
   - editor
   - entity
   - field_ui
@@ -33,7 +28,6 @@ dependencies:
   - menu_link_content
   - node
   - options
-  - page_cache
   - path
   - quickedit
   - rdf
@@ -48,25 +42,13 @@ dependencies:
   - views_ui
   - datetime
   - file
-  - image
   - link
   - options
   - text
   - ctools
-  - ctools_views
-  - devel
-  - eck
-  - eform
-  - field_group
   - inline_entity_form
-  - layout_plugin
   - pathauto
-  - redirect
-  - rules
-  - sitemap
-  - scheduler
   - token
-  - xmlsitemap
   - dropzonejs
   - embed
   - entity_browser
