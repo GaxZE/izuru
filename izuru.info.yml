@@ -3,6 +3,7 @@ description: 'The standard install profile.'
 package: izuru
 type: profile
 core: 8.x
+version: 1.x-dev
 
 # Make the installer auto-select this installation profile.
 distribution:
