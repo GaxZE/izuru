@@ -18,7 +18,6 @@ dependencies:
   - comment
   - dblog
   - editor
-  - entity
   - field_ui
   - file
   - filter
@@ -46,18 +45,6 @@ dependencies:
   - link
   - options
   - text
-  - ctools
-  - inline_entity_form
-  - pathauto
-  - token
-  - dropzonejs
-  - embed
-  - entity_browser
-  - entity_embed
-  - file_browser
-  - entity_browser_entity_form
-  - media_entity
-  - media_entity_image
 
 themes:
   - bootstrap
